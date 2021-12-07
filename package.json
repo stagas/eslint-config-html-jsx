@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-html-jsx",
+  "version": "0.0.0",
+  "description": "eslint config for html-jsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo ok",
+    "docs": "echo ok",
+    "prepack": "echo ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com:stagas/eslint-config-html-jsx.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "html-jsx",
+    "html",
+    "jsx"
+  ],
+  "author": "stagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stagas/eslint-config-html-jsx/issues"
+  },
+  "homepage": "https://github.com/stagas/eslint-config-html-jsx#readme",
+  "short": "stagas/eslint-config-html-jsx",
+  "dependencies": {
+    "eslint-plugin-react": "^7.27.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=8"
+  }
+}
