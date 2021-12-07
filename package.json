@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-html-jsx",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "eslint config for html-jsx",
   "main": "index.js",
   "scripts": {
